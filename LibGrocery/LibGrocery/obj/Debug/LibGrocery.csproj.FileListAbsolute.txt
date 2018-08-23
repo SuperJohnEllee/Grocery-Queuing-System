@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\LibGrocery\LibGrocery\bin\Debug\LibGrocery.dll
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\LibGrocery\LibGrocery\bin\Debug\LibGrocery.pdb
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\LibGrocery\LibGrocery\obj\Debug\LibGrocery.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\LibGrocery\LibGrocery\obj\Debug\LibGrocery.dll
+C:\Users\PC\Desktop\John Ellee\C Sharp Programming\LibGrocery\LibGrocery\obj\Debug\LibGrocery.pdb
